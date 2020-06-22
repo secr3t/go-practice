@@ -140,4 +140,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Binaries built on UNIX like OS
+bin/*
+
 # End of https://www.toptal.com/developers/gitignore/api/go,macos,intellij+all
